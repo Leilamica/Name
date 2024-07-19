@@ -1,0 +1,15 @@
+C:\Users\PUP-LIBRARYPC3\source\repos\Name.Data\bin\Debug\net8.0\Name.Data.deps.json
+C:\Users\PUP-LIBRARYPC3\source\repos\Name.Data\bin\Debug\net8.0\Name.Data.dll
+C:\Users\PUP-LIBRARYPC3\source\repos\Name.Data\bin\Debug\net8.0\Name.Data.pdb
+C:\Users\PUP-LIBRARYPC3\source\repos\Name.Data\bin\Debug\net8.0\Name.model.dll
+C:\Users\PUP-LIBRARYPC3\source\repos\Name.Data\bin\Debug\net8.0\Name.model.pdb
+C:\Users\PUP-LIBRARYPC3\source\repos\Name.Data\obj\Debug\net8.0\Name.Data.csproj.AssemblyReference.cache
+C:\Users\PUP-LIBRARYPC3\source\repos\Name.Data\obj\Debug\net8.0\Name.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PUP-LIBRARYPC3\source\repos\Name.Data\obj\Debug\net8.0\Name.Data.AssemblyInfoInputs.cache
+C:\Users\PUP-LIBRARYPC3\source\repos\Name.Data\obj\Debug\net8.0\Name.Data.AssemblyInfo.cs
+C:\Users\PUP-LIBRARYPC3\source\repos\Name.Data\obj\Debug\net8.0\Name.Data.csproj.CoreCompileInputs.cache
+C:\Users\PUP-LIBRARYPC3\source\repos\Name.Data\obj\Debug\net8.0\Name.Data.csproj.Up2Date
+C:\Users\PUP-LIBRARYPC3\source\repos\Name.Data\obj\Debug\net8.0\Name.Data.dll
+C:\Users\PUP-LIBRARYPC3\source\repos\Name.Data\obj\Debug\net8.0\refint\Name.Data.dll
+C:\Users\PUP-LIBRARYPC3\source\repos\Name.Data\obj\Debug\net8.0\Name.Data.pdb
+C:\Users\PUP-LIBRARYPC3\source\repos\Name.Data\obj\Debug\net8.0\ref\Name.Data.dll

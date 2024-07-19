@@ -1,0 +1,11 @@
+C:\Users\PUP-LIBRARYPC3\source\repos\Name.model\bin\Debug\net8.0\Name.model.deps.json
+C:\Users\PUP-LIBRARYPC3\source\repos\Name.model\bin\Debug\net8.0\Name.model.dll
+C:\Users\PUP-LIBRARYPC3\source\repos\Name.model\bin\Debug\net8.0\Name.model.pdb
+C:\Users\PUP-LIBRARYPC3\source\repos\Name.model\obj\Debug\net8.0\Name.model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PUP-LIBRARYPC3\source\repos\Name.model\obj\Debug\net8.0\Name.model.AssemblyInfoInputs.cache
+C:\Users\PUP-LIBRARYPC3\source\repos\Name.model\obj\Debug\net8.0\Name.model.AssemblyInfo.cs
+C:\Users\PUP-LIBRARYPC3\source\repos\Name.model\obj\Debug\net8.0\Name.model.csproj.CoreCompileInputs.cache
+C:\Users\PUP-LIBRARYPC3\source\repos\Name.model\obj\Debug\net8.0\Name.model.dll
+C:\Users\PUP-LIBRARYPC3\source\repos\Name.model\obj\Debug\net8.0\refint\Name.model.dll
+C:\Users\PUP-LIBRARYPC3\source\repos\Name.model\obj\Debug\net8.0\Name.model.pdb
+C:\Users\PUP-LIBRARYPC3\source\repos\Name.model\obj\Debug\net8.0\ref\Name.model.dll
