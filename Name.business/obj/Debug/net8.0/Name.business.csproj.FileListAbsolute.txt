@@ -1,0 +1,17 @@
+C:\Users\PUP-LIBRARYPC3\source\repos\Name.business\bin\Debug\net8.0\Name.business.deps.json
+C:\Users\PUP-LIBRARYPC3\source\repos\Name.business\bin\Debug\net8.0\Name.business.dll
+C:\Users\PUP-LIBRARYPC3\source\repos\Name.business\bin\Debug\net8.0\Name.business.pdb
+C:\Users\PUP-LIBRARYPC3\source\repos\Name.business\bin\Debug\net8.0\Name.Data.dll
+C:\Users\PUP-LIBRARYPC3\source\repos\Name.business\bin\Debug\net8.0\Name.model.dll
+C:\Users\PUP-LIBRARYPC3\source\repos\Name.business\bin\Debug\net8.0\Name.Data.pdb
+C:\Users\PUP-LIBRARYPC3\source\repos\Name.business\bin\Debug\net8.0\Name.model.pdb
+C:\Users\PUP-LIBRARYPC3\source\repos\Name.business\obj\Debug\net8.0\Name.business.csproj.AssemblyReference.cache
+C:\Users\PUP-LIBRARYPC3\source\repos\Name.business\obj\Debug\net8.0\Name.business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PUP-LIBRARYPC3\source\repos\Name.business\obj\Debug\net8.0\Name.business.AssemblyInfoInputs.cache
+C:\Users\PUP-LIBRARYPC3\source\repos\Name.business\obj\Debug\net8.0\Name.business.AssemblyInfo.cs
+C:\Users\PUP-LIBRARYPC3\source\repos\Name.business\obj\Debug\net8.0\Name.business.csproj.CoreCompileInputs.cache
+C:\Users\PUP-LIBRARYPC3\source\repos\Name.business\obj\Debug\net8.0\Name.bus.00BEE962.Up2Date
+C:\Users\PUP-LIBRARYPC3\source\repos\Name.business\obj\Debug\net8.0\Name.business.dll
+C:\Users\PUP-LIBRARYPC3\source\repos\Name.business\obj\Debug\net8.0\refint\Name.business.dll
+C:\Users\PUP-LIBRARYPC3\source\repos\Name.business\obj\Debug\net8.0\Name.business.pdb
+C:\Users\PUP-LIBRARYPC3\source\repos\Name.business\obj\Debug\net8.0\ref\Name.business.dll
